@@ -11,5 +11,5 @@ A paypal replica website that I had created in order to grasp how CSS grid and f
 As the files of the website contain CSS and HTML which run without any additional dependencies, you can simply clone the git repo.
 ```
 # Navigate to any folder on your local machine and run
-git clone https://github.com/mriusdev/twttr-copy-edu.git
+git clone https://github.com/mriusdev/ppal-replica.git
 ```
