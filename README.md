@@ -1,7 +1,7 @@
 # PayPal clone site
 A paypal replica website that I had created in order to grasp how CSS grid and flexbox works.
 
-![Demo of site](demo/desktop_view.gif)
+![Demo of site](gif/desktop_view.gif)
 
 ## Lessons learned
 - Understood and got to apply the fundamentals of CSS grid and flexbox
